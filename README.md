@@ -18,3 +18,5 @@ https://github.com/bangoc123/learn-machine-learning-in-two-months
 TensorFlow Tutorial 3 - Neural Networks with Sequential and Functional API
 
 https://www.youtube.com/watch?v=pAhPiF3yiXI
+
+https://aegeorge42.github.io/?utm_source=j2team&utm_medium=url_shortener
